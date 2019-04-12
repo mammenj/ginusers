@@ -6,7 +6,7 @@ Command line instructions
 
 Git global setup
 git config --global user.name "John Sakthimangalam Mammen01"
-git config --global user.email "john.mammen01@infosys.com"
+git config --global user.email "john.mammen@abc.com"
 
 Create a new repository
 git clone http://.../gousers.git
