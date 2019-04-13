@@ -24,7 +24,7 @@ systemctl status postgresql - start postgres
 
 $ sudo -u postgres psql
 
-User table
+`User table
 ==========
    Column   |           Type           | Collation | Nullable |              Default              
 ------------+--------------------------+-----------+----------+-----------------------------------
@@ -48,6 +48,6 @@ INSERT INTO users (username, password) VALUES
   ('admin', '12345'),
   ('user1', '12345');
 
-delete from users where id = 2
+delete from users where id = 2`
 
 ==========================
