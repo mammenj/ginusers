@@ -11,7 +11,8 @@ A example Microservices in Go language
 - SSL enabled endpoint
 
 - Uses Gin gonic web framework https://github.com/gin-gonic/gin
-
+- Uses config file to load server variables
+- User password encrypted in the database tables using bcrypt
 
 ### For ssl ####
 
